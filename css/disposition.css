@@ -46,6 +46,8 @@ header {
 
 .moi {
     margin-left: 30px;
+    max-width: 20%;
+    max-height: 20%;
 }
 .act{
     margin-left: 7%;
